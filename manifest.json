@@ -1,0 +1,17 @@
+{
+  "name": "오목 한판두기",
+  "short_name": "오목",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#2b2b2b",
+  "theme_color": "#d2a679",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3257/3257790.png",
+      "sizes": "192x192 512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
